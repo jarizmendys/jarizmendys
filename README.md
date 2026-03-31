@@ -34,8 +34,7 @@ Haz clic en cualquiera de los enlaces para acceder a la guía completa de cada t
 
 https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
 
-![Linux](C:\Users\Jhosep\Desktop\Notas%20de%20Aprendizajes\Ima\Linux--FCC624.svg)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Python](C:\Users\Jhosep\Desktop\Notas%20de%20Aprendizajes\Ima\python-3670A0.svg)
+![Linux](.\Ima\Linux--FCC624.svg)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Python](.\Ima\python-3670A0.svg)
 
 ---
 
-*💡 Tip: Para mantener los hipervínculos funcionando correctamente, asegúrate de que los nombres de los archivos en tu carpeta coincidan exactamente con los que están escritos entre los paréntesis del índice.*
